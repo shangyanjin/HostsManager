@@ -6,5 +6,3 @@ HostsManager 是一个基于 Go 的轻量级命令行工具，用于轻松管理
 用法: HostManager.exe [action] [domain] [ip]
 
 Author: Shang Yanjin
-Email: shangyanjin@msn.com
-12.6/2023
